@@ -7,3 +7,5 @@
 #### Vier hekjes
 
 ##### Vijf hekjes
+
+Ik hou van **dikke text**.
